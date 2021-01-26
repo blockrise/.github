@@ -1,6 +1,6 @@
 ---
-name: Feature request extended
-about: Extended feature request for this project
+name: Feature request 
+about: Feature request for this project
 title: ''
 labels: ''
 assignees: ''
