@@ -1,4 +1,17 @@
 ---
+name: Feature request extended
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+
+
+
+
+---
 Type | About  | Labels | Assignees
 ------------ | ------------- | ------------- | -------------
 Feature Request | I have a suggestion :smile_cat: | Enhancement :heart_eyes_cat:, Refactor :pouting_cat: | Hugo
